@@ -44,9 +44,6 @@ function jogo(vitorias, derrotas){
         nivel = "Imortal"
     }
 
-
-
-
     return {saldo, nivel}
 }
 
